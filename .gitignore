@@ -1,0 +1,11 @@
+# ignore image folder
+img/
+
+#ignore bin folder
+bin/
+
+# old files
+readme.txt
+UML.png
+Final_Paper_JNO.png
+Basic_Photo_Editor.pdf
