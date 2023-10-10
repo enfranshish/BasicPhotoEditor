@@ -3,6 +3,8 @@
 This is a rough draft of a basic photo editor that runs from command line
 
 ### Additional documentation ###
+Open CV installation is required to build this application.
+
 OS and IDE:
 Code compiled on Windows 11 in Visual Studio Code IDE.
 Executables were made using Makefile with mingw32-make
